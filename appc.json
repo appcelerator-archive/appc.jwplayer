@@ -1,0 +1,8 @@
+{
+	"type": "connector",
+	"group": "arrow",
+	"access": "public",
+	"owners": [
+		"rblalock@appcelerator.com"
+	]
+}
