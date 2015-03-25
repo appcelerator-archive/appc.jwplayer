@@ -3,6 +3,10 @@
 	"group": "arrow",
 	"access": "public",
 	"owners": [
-		"rblalock@appcelerator.com"
-	]
+		"rblalock@appcelerator.com",
+		"jhaynie@appcelerator.com"
+	],
+	"assets": {
+		"small_logo":"docs/registry-jwplayer.png"
+	}
 }
