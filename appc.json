@@ -3,6 +3,10 @@
 	"group": "arrow",
 	"access": "public",
 	"owners": [
-		"rblalock@appcelerator.com"
+		"rblalock@appcelerator.com",
+		"jhaynie@appcelerator.com",
+		"dtoth@appcelerator.com",
+		"mgoff@appcelerator.com",
+		"imuschenetz@appcelerator.com"
 	]
 }
