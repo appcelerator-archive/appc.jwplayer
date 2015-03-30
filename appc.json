@@ -4,7 +4,10 @@
 	"access": "public",
 	"owners": [
 		"rblalock@appcelerator.com",
-		"jhaynie@appcelerator.com"
+		"jhaynie@appcelerator.com",
+		"dtoth@appcelerator.com",
+		"mgoff@appcelerator.com",
+		"imuschenetz@appcelerator.com"
 	],
 	"assets": {
 		"small_logo":"docs/registry-jwplayer.png"
