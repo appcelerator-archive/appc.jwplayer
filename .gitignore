@@ -1,4 +1,4 @@
 node_modules
 logs
-conf
 .DS_Store
+conf/local.js
