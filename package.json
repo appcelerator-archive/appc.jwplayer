@@ -1,21 +1,34 @@
 {
   "name": "appc.jwplayer",
   "description": "JWPlayer connector",
-  "version": "1.0.8-2",
-  "author": "Rick Blalock",
-  "license": "",
-  "framework": "none",
+  "version": "1.0.8-3",
+  "author": {
+    "email": "support@axway.com",
+    "name": "Axway R&D",
+    "url": "https://axway.com"
+  },
   "keywords": [
     "appcelerator",
     "arrow",
     "arrow-connector",
     "appc-package-connector"
   ],
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-2"
+    ]
+  },
   "files": [
-    "dist"
+    "docs",
+    "dist",
+    "conf"
   ],
   "main": "dist/index.js",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appcelerator/appc.jwplayer"
+  },
   "private": true,
   "dependencies": {
     "async": "^0.9.0",
@@ -35,7 +48,6 @@
     "grunt-kahvesi": "^0.1.0",
     "grunt-mocha-test": "^0.12.0",
     "mocha": "^1.21.4",
-    "should": "^4.0.4",
     "nsp": "3.1.0",
     "retire": "1.4.0",
     "arrow": "*",
@@ -48,7 +60,6 @@
     "nyc": "11.3.0",
     "request": "2.83.0",
     "rimraf": "2.6.2",
-    "sinon": "^1.17.7",
     "snazzy": "7.0.0",
     "standard": "10.0.3",
     "tap": "11.0.0",
