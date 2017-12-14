@@ -46,3 +46,5 @@ scan-retire.json
 # Others
 dist
 
+# package-lock.json
+package-lock.json
