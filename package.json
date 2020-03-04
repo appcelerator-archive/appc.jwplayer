@@ -22,7 +22,10 @@
   "files": [
     "docs",
     "dist",
-    "conf"
+    "conf",
+    "lib",
+    "app.js",
+    "index.js"
   ],
   "main": "dist/index.js",
   "repository": {
